@@ -1,0 +1,7 @@
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 02 20220125Morning Assignments print 1 to 10\Day 02 20220125Morning Assignments\bin\Debug\Day 02 20220125Morning Assignments.exe.config
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 02 20220125Morning Assignments print 1 to 10\Day 02 20220125Morning Assignments\bin\Debug\Day 02 20220125Morning Assignments.exe
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 02 20220125Morning Assignments print 1 to 10\Day 02 20220125Morning Assignments\bin\Debug\Day 02 20220125Morning Assignments.pdb
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 02 20220125Morning Assignments print 1 to 10\Day 02 20220125Morning Assignments\obj\Debug\Day 02 20220125Morning Assignments.csprojAssemblyReference.cache
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 02 20220125Morning Assignments print 1 to 10\Day 02 20220125Morning Assignments\obj\Debug\Day 02 20220125Morning Assignments.csproj.CoreCompileInputs.cache
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 02 20220125Morning Assignments print 1 to 10\Day 02 20220125Morning Assignments\obj\Debug\Day 02 20220125Morning Assignments.exe
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 02 20220125Morning Assignments print 1 to 10\Day 02 20220125Morning Assignments\obj\Debug\Day 02 20220125Morning Assignments.pdb

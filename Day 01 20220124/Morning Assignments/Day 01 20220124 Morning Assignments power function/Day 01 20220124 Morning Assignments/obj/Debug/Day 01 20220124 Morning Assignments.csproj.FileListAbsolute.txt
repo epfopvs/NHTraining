@@ -1,0 +1,7 @@
+C:\NH Trainng\C#\Day 01 20220124\Morning Assignments\Day 01 20220124 Morning Assignments power function\Day 01 20220124 Morning Assignments\bin\Debug\Day 01 20220124 Morning Assignments.exe.config
+C:\NH Trainng\C#\Day 01 20220124\Morning Assignments\Day 01 20220124 Morning Assignments power function\Day 01 20220124 Morning Assignments\bin\Debug\Day 01 20220124 Morning Assignments.exe
+C:\NH Trainng\C#\Day 01 20220124\Morning Assignments\Day 01 20220124 Morning Assignments power function\Day 01 20220124 Morning Assignments\bin\Debug\Day 01 20220124 Morning Assignments.pdb
+C:\NH Trainng\C#\Day 01 20220124\Morning Assignments\Day 01 20220124 Morning Assignments power function\Day 01 20220124 Morning Assignments\obj\Debug\Day 01 20220124 Morning Assignments.csprojAssemblyReference.cache
+C:\NH Trainng\C#\Day 01 20220124\Morning Assignments\Day 01 20220124 Morning Assignments power function\Day 01 20220124 Morning Assignments\obj\Debug\Day 01 20220124 Morning Assignments.csproj.CoreCompileInputs.cache
+C:\NH Trainng\C#\Day 01 20220124\Morning Assignments\Day 01 20220124 Morning Assignments power function\Day 01 20220124 Morning Assignments\obj\Debug\Day 01 20220124 Morning Assignments.exe
+C:\NH Trainng\C#\Day 01 20220124\Morning Assignments\Day 01 20220124 Morning Assignments power function\Day 01 20220124 Morning Assignments\obj\Debug\Day 01 20220124 Morning Assignments.pdb

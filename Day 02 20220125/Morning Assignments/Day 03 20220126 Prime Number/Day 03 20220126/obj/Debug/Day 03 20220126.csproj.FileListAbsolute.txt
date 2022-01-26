@@ -1,0 +1,7 @@
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 03 20220126 Prime Number\Day 03 20220126\obj\Debug\Day 03 20220126.csprojAssemblyReference.cache
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 03 20220126 Prime Number\Day 03 20220126\obj\Debug\Day 03 20220126.csproj.CoreCompileInputs.cache
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 03 20220126 Prime Number\Day 03 20220126\bin\Debug\Day 03 20220126.exe.config
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 03 20220126 Prime Number\Day 03 20220126\bin\Debug\Day 03 20220126.exe
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 03 20220126 Prime Number\Day 03 20220126\bin\Debug\Day 03 20220126.pdb
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 03 20220126 Prime Number\Day 03 20220126\obj\Debug\Day 03 20220126.exe
+C:\NH Trainng\C#\Day 02 20220125\Morning Assignments\Day 03 20220126 Prime Number\Day 03 20220126\obj\Debug\Day 03 20220126.pdb

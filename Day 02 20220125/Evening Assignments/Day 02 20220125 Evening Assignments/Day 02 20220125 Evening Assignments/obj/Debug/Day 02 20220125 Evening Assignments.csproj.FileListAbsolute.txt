@@ -1,0 +1,7 @@
+C:\NH Trainng\C#\Day 02 20220125\Evening Assignments\Day 02 20220125 Evening Assignments\Day 02 20220125 Evening Assignments\bin\Debug\Day 02 20220125 Evening Assignments.exe.config
+C:\NH Trainng\C#\Day 02 20220125\Evening Assignments\Day 02 20220125 Evening Assignments\Day 02 20220125 Evening Assignments\bin\Debug\Day 02 20220125 Evening Assignments.exe
+C:\NH Trainng\C#\Day 02 20220125\Evening Assignments\Day 02 20220125 Evening Assignments\Day 02 20220125 Evening Assignments\bin\Debug\Day 02 20220125 Evening Assignments.pdb
+C:\NH Trainng\C#\Day 02 20220125\Evening Assignments\Day 02 20220125 Evening Assignments\Day 02 20220125 Evening Assignments\obj\Debug\Day 02 20220125 Evening Assignments.csprojAssemblyReference.cache
+C:\NH Trainng\C#\Day 02 20220125\Evening Assignments\Day 02 20220125 Evening Assignments\Day 02 20220125 Evening Assignments\obj\Debug\Day 02 20220125 Evening Assignments.csproj.CoreCompileInputs.cache
+C:\NH Trainng\C#\Day 02 20220125\Evening Assignments\Day 02 20220125 Evening Assignments\Day 02 20220125 Evening Assignments\obj\Debug\Day 02 20220125 Evening Assignments.exe
+C:\NH Trainng\C#\Day 02 20220125\Evening Assignments\Day 02 20220125 Evening Assignments\Day 02 20220125 Evening Assignments\obj\Debug\Day 02 20220125 Evening Assignments.pdb
