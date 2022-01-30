@@ -1,0 +1,7 @@
+C:\NH Trainng\C#\Day 04 20220127\Day 04 20220127 power function\Day 04 20220127\obj\Debug\Day 04 20220127.csprojAssemblyReference.cache
+C:\NH Trainng\C#\Day 04 20220127\Day 04 20220127 power function\Day 04 20220127\obj\Debug\Day 04 20220127.csproj.CoreCompileInputs.cache
+C:\NH Trainng\C#\Day 04 20220127\Day 04 20220127 power function\Day 04 20220127\bin\Debug\Day 04 20220127.exe.config
+C:\NH Trainng\C#\Day 04 20220127\Day 04 20220127 power function\Day 04 20220127\bin\Debug\Day 04 20220127.exe
+C:\NH Trainng\C#\Day 04 20220127\Day 04 20220127 power function\Day 04 20220127\bin\Debug\Day 04 20220127.pdb
+C:\NH Trainng\C#\Day 04 20220127\Day 04 20220127 power function\Day 04 20220127\obj\Debug\Day 04 20220127.exe
+C:\NH Trainng\C#\Day 04 20220127\Day 04 20220127 power function\Day 04 20220127\obj\Debug\Day 04 20220127.pdb
